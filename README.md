@@ -1,0 +1,1 @@
+# DSN_Qualification_Hackathon_Kowope_Supermarket
