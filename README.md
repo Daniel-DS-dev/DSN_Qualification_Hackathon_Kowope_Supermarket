@@ -14,4 +14,4 @@
 
 * This is Qualification Competition for the Data Science Nigeria AI Bootcamp.
 
-*About Data Science Nigeria (www.datasciencenigeria.org):
+* About Data Science Nigeria (www.datasciencenigeria.org):
